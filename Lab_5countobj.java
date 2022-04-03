@@ -9,6 +9,7 @@ class Lab_5countobj{
 	public static void main(String[] args) {
 		Lab_5countobj obj1=new Lab_5countobj();
 		Lab_5countobj obj2=new Lab_5countobj();
+                Lab_5countobj obj3=new Lab_5countobj() ;
 
 	}
 }
